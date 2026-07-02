@@ -1,0 +1,14 @@
+#0;4;are;2;f1.txt;#
+#0;4;are;1;f2.txt;#
+#0;4;are;1;f3.txt;#
+#0;2;are;1;f2.txt;#
+#7;1;Hi;2;f1.txt;#
+#7;1;hello;2;f1.txt;#
+#7;3;how;2;f1.txt;#
+#7;3;how;1;f2.txt;#
+#7;2;how;1;f2.txt;#
+#7;1;hi;2;f2.txt;#
+#10;1;kooi;1;f3.txt;#
+#22;1;where;1;f3.txt;#
+#24;2;you;2;f1.txt;#
+#24;2;you;1;f3.txt;#
